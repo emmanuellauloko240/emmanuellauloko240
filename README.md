@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Uloko Emmanuella 
+A Go backend developer 
 <!--
 **emmanuellauloko240/emmanuellauloko240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
